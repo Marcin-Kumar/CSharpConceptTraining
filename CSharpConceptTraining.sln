@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConceptTraining", "CSharpConceptTraining\CSharpConceptTraining.csproj", "{7FA560CB-68AC-4D5C-8C06-BF17646F0802}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBasicConceptTraining", "CSharpBasicConceptTraining\CSharpBasicConceptTraining.csproj", "{7FA560CB-68AC-4D5C-8C06-BF17646F0802}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
